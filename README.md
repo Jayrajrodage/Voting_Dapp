@@ -16,9 +16,7 @@ This is a decentralized application (Dapp) built on the Ethereum blockchain wher
 
 Clone the repository and navigate to the project directory.
 
-Install the necessary dependencies using npm:
-
-npm install
+Install the necessary dependencies using :npm install
 
 Compile and deploy the smart contract:
 
