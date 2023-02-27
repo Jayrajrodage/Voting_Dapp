@@ -31,7 +31,7 @@ Start the development server using npm start.
 
 Make sure MetaMask is connected to your local blockchain and has an account with some ether.
 
-Access the application at http://localhost:3000.
+Access the application at https://votingdapp-jayrajrodage.vercel.app
 
 Chairperson should create the candidate data by clicking the "Create Candidate" button and filling in the form.
 
