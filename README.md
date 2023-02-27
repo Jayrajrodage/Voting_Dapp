@@ -11,6 +11,21 @@ Voters can cast their vote for a candidate using their unique ID.
 
 Chairperson can clear the voting data after the deadline is completed to start another voting.
 
+# Technologies Used
+1.solidity
+
+2.Ether.js
+
+3.Tailwindcss
+
+4.Remix.IDE
+
+5.React
+
+6.Web3
+
+7.MetaMask
+
 # Requirements
 
 Node.js v12 or later
